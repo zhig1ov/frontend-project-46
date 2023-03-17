@@ -18,7 +18,8 @@
   "homepage": "https://github.com/zhig1ov/frontend-project-46#readme",
   "type": "module",
   "dependencies": {
-    "commander": "^10.0.0"
+    "commander": "^10.0.0",
+    "lodash": "^4.17.21"
   },
   "bin": {
     "gendiff": "bin/gendiff.js"
